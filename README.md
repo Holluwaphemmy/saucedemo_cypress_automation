@@ -1,6 +1,6 @@
 # Sauce Demo (Swag Labs) Cypress Tests
  
-This repository contains a set of Cypress e2e tests for the Swag Labs (Sauce Demo) website.
+This repository contains a set of Cypress tests for the Swag Labs (Sauce Demo) website.
  
 #### Prerequisites
 - Node.js (version 16 or higher)
