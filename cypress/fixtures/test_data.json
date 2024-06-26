@@ -1,0 +1,10 @@
+{
+  "username_field": "#user-name",
+  "password_field": "#password",
+  "login_button": "#login-button",
+  "standard_username": "standard_user",
+  "password": "secret_sauce",
+  "inventory_item_name": ".inventory_item_name",
+  "sort_dropdown": ".product_sort_container",
+  "logout_button": "#logout_sidebar_link"
+}
